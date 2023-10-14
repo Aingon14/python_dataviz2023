@@ -1,5 +1,5 @@
 #  SC663401 Basic programming for Data Science and Data Visualization
-> อิงอร พลพาล 643021279-6
+> อิงอร พลพาล 643021279-6  Project กลุ่มมนต์แคน
 
 Python & Markdown
 
